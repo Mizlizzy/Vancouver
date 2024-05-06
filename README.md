@@ -5,8 +5,8 @@ In the realm of commerce, Vancouver engages in the retail of a diverse range of 
 Please note that the information shared in this repository is for educational and demonstration purpose only.
 # Problem Statement
 Vancouver has entrusted valuable data to a meticulously organized database. To harness this wealth of
-information effectively, you are tasked with employing SQL, a proficient tool that allows you to access,
-manipulate, and extract the requisite data essential for your analytical pursuits.
+information effectively, i was tasked with employing SQL, a proficient tool that allows to access,
+manipulate, and extract the requisite data essential for analytical pursuits.
 # Skills & Concepts Demonstrated 
 Data manipulation
 SQL Queries
@@ -19,6 +19,7 @@ Stored Procedure and Fuctions
 # Analysis
 here you'll find a comprehensive list of database query syntax, along with the corresponding query results captured in the screenshot below
 # Question 1 
+
 ![image](https://github.com/Mizlizzy/Vancouver/assets/125541494/d219001c-7cdc-4f6d-96e2-1d7f74ad345e)
 # Question 2
 ![image](https://github.com/Mizlizzy/Vancouver/assets/125541494/a3382e5d-d013-4747-851a-89bef27d4ad3)
